@@ -1,4 +1,4 @@
-# proyecto_Tableau
+# Proyecto Music Visual Studio 
 
 ![Captura de pantalla 2024-10-21 105556](https://github.com/user-attachments/assets/ad25afaa-3413-49e8-9ba1-fa9445d2677e)
 
