@@ -1,5 +1,5 @@
 # Proyecto: **Music Visual Studio**  
-Herramienta de visualización: Tableau
+Herramienta de visualización: **Tableau** 
 
  **Contexto:** El proyecto **Music Visual Studio** tiene como objetivo analizar las tendencias musicales y rescatar la esencia de la "canción del verano" a través de la visualización de datos. Se ha realizado un análisis de los lanzamientos musicales en diferentes plataformas de streaming como **Deezer, Spotify, Amazon Music y Apple Music**, enfocándonos en determinar patrones de éxito en términos de lanzamientos, géneros y popularidad.
 
