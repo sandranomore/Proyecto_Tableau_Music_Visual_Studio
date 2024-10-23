@@ -11,10 +11,10 @@ Se han recopilado diversos datasets sobre lanzamientos musicales, obtenidos de f
 
 ### **FASE 2: Objetivos**
 
-1. **Identificación de Tendencias Temporales:**  
-2. **Análisis del Comportamiento de la Música en Plataformas de Streaming:**  
-3. **Éxito por Estilo Musical:**  
-4. **Creación de la Nueva Canción del Verano mediante IA:**  
+1. Identificación de Tendencias Temporales 
+2. Análisis del Comportamiento de la Música en Plataformas de Streaming
+3. Éxito por Estilo Musical
+4. Creación de la Nueva Canción del Verano mediante IA
 ---
 
 ### **FASE 3: Casos de Uso**
