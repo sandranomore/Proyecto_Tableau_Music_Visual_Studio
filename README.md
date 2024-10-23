@@ -1,24 +1,19 @@
-
 # Proyecto: **Music Visual Studio**  
-## Herramienta de visualización: **Tableau**
+Herramienta de visualización: Tableau
 
 ### **Contexto:**
 El proyecto **Music Visual Studio** tiene como objetivo analizar las tendencias musicales y rescatar la esencia de la "canción del verano" a través de la visualización de datos. Se ha realizado un análisis de los lanzamientos musicales en diferentes plataformas de streaming como **Deezer, Spotify, Amazon Music y Apple Music**, enfocándonos en determinar patrones de éxito en términos de lanzamientos, géneros y popularidad.
 
 ### **FASE 1: Exploración, Limpieza y Transformación del Conjunto de Datos**
-
 Se han recopilado diversos datasets sobre lanzamientos musicales, obtenidos de fuentes públicas y privadas que contienen información detallada sobre los **años de lanzamiento, meses, plataformas de streaming y géneros musicales**. 
 
 ### **FASE 2: Objetivos**
-
 1. Identificación de Tendencias Temporales 
 2. Análisis del Comportamiento de la Música en Plataformas de Streaming
 3. Éxito por Estilo Musical
 4. Creación de la Nueva Canción del Verano mediante IA
----
 
 ### **FASE 3: Casos de Uso**
-
 - **Industria Musical**: El **dashboard** resultante está dirigido principalmente a los equipos de **marketing y producción musical** para ayudarles a determinar los mejores momentos y plataformas para lanzar nuevas canciones, optimizando así la difusión y el éxito de sus lanzamientos.
 
 - **Plataformas de Streaming**: Los insights obtenidos pueden ayudar a las **plataformas de streaming** como Deezer, Spotify, Amazon Music y Apple Music a comprender mejor los comportamientos de sus usuarios y ajustar sus algoritmos de recomendación.
